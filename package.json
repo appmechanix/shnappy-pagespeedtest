@@ -1,0 +1,23 @@
+{
+  "name": "shnappy-pagespeedtest",
+  "version": "0.0.1",
+  "description": "Runs a page speed test against given sites and reports it to KeenIO",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appmechanix/shnappy-pagespeedtest.git"
+  },
+  "author": "dwnz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appmechanix/shnappy-pagespeedtest/issues"
+  },
+  "homepage": "https://github.com/appmechanix/shnappy-pagespeedtest",
+  "dependencies": {
+    "appmech-logger": "0.0.2",
+    "psi": "^1.0.4"
+  }
+}
